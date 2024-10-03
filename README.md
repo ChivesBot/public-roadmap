@@ -16,6 +16,6 @@ Why can't you mute pull-request notifications that were created by bots such as 
 
 We're building something better.
 
-At it's core, we want more flexibility when creating notifications than the official integration.
+At its core, we want more flexibility when creating notifications than the official integration.
 
 If this sounds interesting, you can join our launch list at https://chivesbot.com
